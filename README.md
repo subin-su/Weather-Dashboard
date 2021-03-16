@@ -18,9 +18,11 @@ GIVEN a weather dashboard with form inputs:
     - THEN I am again presented with current and future conditions for that city
     
 ## Link to deployed app: 
-https://squeakymatter.github.io/weather-dashboard/    
+https://github.com/subin-su/Weather-Dashboard.git
 
 ## Mock-Up
 The following image shows the web application's appearance and functionality:
-![](assets/demo.png)
+![Screenshot (252)](https://user-images.githubusercontent.com/70430274/111257849-1c0ddc80-85d9-11eb-92b9-4f23d87a373b.png)
+
+
 
